@@ -55,8 +55,8 @@ Node.js
 npm (Node Package Manager)
 Cloning the Repository
 
-git clone https://github.com/adrianhajdin/zoom-clone.git
-cd zoom-clone
+git clone https://github.com/IsmeetKachhap007/yoom_meetings.git
+cd yoom_meetings
 Installation
 
 Install the project dependencies using npm:

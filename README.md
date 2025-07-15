@@ -1,4 +1,5 @@
-﻿# yoom_meetings
+﻿# Xo_meetings
+<img src="/public/images/banner.png" alt="Sample" width="300"/>
 📋 Table of Contents
 🤖 Introduction
 ⚙️ Tech Stack
@@ -55,8 +56,8 @@ Node.js
 npm (Node Package Manager)
 Cloning the Repository
 
-git clone https://github.com/IsmeetKachhap007/yoom_meetings.git
-cd yoom_meetings
+git clone https://github.com/IsmeetKachhap007/Xo_meetings.git
+cd Xo_meetings
 Installation
 
 Install the project dependencies using npm:

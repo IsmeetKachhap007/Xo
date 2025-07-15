@@ -1,6 +1,6 @@
 ﻿# Xo_meetings
 <p align="center">
-  <img src="/public/images/banner.png" alt="Your Image" width="50%">
+  <img src="/public/images/banner.png" alt="Your Image" width="100%">
 </p>
 📋 Table of Contents
 🤖 Introduction

@@ -1,5 +1,7 @@
 ﻿# Xo_meetings
-<img src="/public/images/banner.png" alt="Sample" width="300"/>
+<p align="center">
+  <img src="/public/images/banner.png" alt="Your Image" width="50%">
+</p>
 📋 Table of Contents
 🤖 Introduction
 ⚙️ Tech Stack
